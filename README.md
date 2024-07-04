@@ -20,7 +20,7 @@ Este projeto é uma Pokédex construída utilizando HTML, CSS e JavaScript. O ob
 2. Abra o arquivo `index.html` em um navegador de sua escolha.
 
 ## Estrutura do Projeto
-
+```
 pokedex/ 
 │ ├── css/ 
 │ └── style.css 
@@ -30,7 +30,7 @@ pokedex/
 │ ├── index.html 
 │ └── README.md
 
-
+```
 
 ## Contribuições
 
